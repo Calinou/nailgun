@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:cc="http://creativecommons.org/ns#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    id="svg6068"
+    sodipodi:docname="astroguy_with_gun.svg"
+    viewBox="0 0 47.507 50"
+    sodipodi:version="0.32"
+    version="1.0"
+    inkscape:output_extension="org.inkscape.output.svg.inkscape"
+    inkscape:version="0.46"
+  >
+  <sodipodi:namedview
+      id="base"
+      bordercolor="#666666"
+      inkscape:pageshadow="2"
+      guidetolerance="10"
+      pagecolor="#ffffff"
+      gridtolerance="10000"
+      inkscape:window-height="607"
+      inkscape:zoom="0.7"
+      objecttolerance="10"
+      showgrid="false"
+      borderopacity="1.0"
+      inkscape:current-layer="layer1"
+      inkscape:cx="86.104153"
+      inkscape:cy="0.279067"
+      inkscape:window-y="78"
+      inkscape:window-x="756"
+      inkscape:window-width="640"
+      inkscape:pageopacity="0.0"
+      inkscape:document-units="px"
+  />
+  <g
+      id="layer1"
+      inkscape:label="Layer 1"
+      inkscape:groupmode="layer"
+      transform="translate(-176.25 -313.08)"
+    >
+    <g
+        id="g6094"
+      >
+      <g
+          id="g14073"
+          transform="matrix(-.38627 0 0 .38627 113 384.83)"
+        >
+        <path
+            id="path8221"
+            style="stroke:#000000;stroke-width:3.854;fill:#d8d8d8"
+            d="m-212.15-181.11c16.94 0 30.67 13.77 30.67 30.7 0 12.09-7.01 22.55-17.18 27.55l22.85 64.611h-77.31l24.3-66.431c-8.43-5.47-14.03-14.95-14.03-25.73 0-16.93 13.77-30.7 30.7-30.7z"
+        />
+        <path
+            id="path8223"
+            style="fill-rule:evenodd;fill-opacity:.65882;stroke:#000000;stroke-width:3.854;fill:#333333"
+            d="m-191.27-98.063l4.92 14.171-53.26-8.457 4.86-13.011 43.48 7.297z"
+        />
+        <path
+            id="path8225"
+            style="stroke:#3e3e3e;stroke-width:3.854;fill:#7c7c7c"
+            d="m-212.15-183.84c18.52 0 33.53 15.06 33.53 33.58 0 13.22-7.66 24.66-18.78 30.12l-32.98-1.98c-9.21-5.98-15.33-16.35-15.33-28.14 0-18.52 15.05-33.58 33.56-33.58z"
+        />
+        <path
+            id="path8227"
+            style="stroke:#000000;stroke-width:3.854;fill:#d8d8d8"
+            d="m-212.15-183.84c18.52 0 33.53 15.06 33.53 33.58 0 13.22-7.66 24.66-18.78 30.12l-32.98-1.98c-9.21-5.98-15.33-16.35-15.33-28.14l27.71-0.26 2.51-10.62-24.29-8.16c6.06-8.78 16.18-14.54 27.63-14.54z"
+        />
+      </g
+      >
+      <path
+          id="path9014"
+          style="stroke-linejoin:round;stroke:#333333;stroke-linecap:round;stroke-width:1.2814;fill:#e15e5e"
+          d="m220.87 339.88h-14.91"
+      />
+      <path
+          id="path9012"
+          style="stroke-linejoin:round;stroke:#333333;stroke-linecap:round;stroke-width:1.2814;fill:#e15e5e"
+          d="m217.69 339.82c0 1.5 1.21 2.71 2.71 2.71s2.71-1.21 2.71-2.71c0-1.49-1.21-2.71-2.71-2.71s-2.71 1.22-2.71 2.71z"
+      />
+      <path
+          id="path9016"
+          style="stroke-linejoin:round;stroke:#333333;stroke-linecap:round;stroke-width:1.2814;fill:#e15e5e"
+          d="m215.28 338.02v3.73"
+      />
+      <path
+          id="path9018"
+          style="stroke-linejoin:round;stroke:#333333;stroke-linecap:round;stroke-width:1.2814;fill:#e15e5e"
+          d="m213.41 337.09v5.59"
+      />
+      <path
+          id="path9020"
+          style="stroke-linejoin:round;stroke:#333333;stroke-linecap:round;stroke-width:1.2814;fill:#e15e5e"
+          d="m211.55 336.15v7.46"
+      />
+      <path
+          id="rect9022"
+          style="stroke-linejoin:round;stroke:#333333;stroke-linecap:round;stroke-width:1.281;fill:#e15e5e"
+          d="m205.02 336.16c2.59 0 4.66 1.66 4.66 3.72 0 1.9-1.74 3.44-4.02 3.69l-1.57 2.84h-1.86l0.95-2.8h-2.53l-3.46 4.6h-2.8l3-4.98c-1.55-0.6-2.62-1.87-2.62-3.35 0-2.06 2.08-3.72 4.66-3.72h5.59z"
+      />
+      <path
+          id="rect8959"
+          style="stroke-linejoin:round;stroke:#333333;stroke-linecap:round;stroke-width:1.281;fill:#e15e5e"
+          d="m185.36 334.5c-3.32-0.51-6.65 3.42-7.47 8.81l-0.96 6.3c-0.29 1.92 1.01 3.7 2.92 3.99l2.54 0.39 2.54 0.39c1.92 0.29 3.69-1.03 3.98-2.95 0.29-2.13 0.58-4.19 0.96-6.29 0.83-5.4-1.19-10.14-4.51-10.64z"
+      />
+      <path
+          id="path9034"
+          style="stroke-linejoin:bevel;stroke:#000000;stroke-linecap:square;stroke-width:1.3297;fill:#d8d8d8"
+          d="m204.02 346.59c0 2.2 1.72 3.98 3.84 3.98 2.13 0 3.85-1.78 3.85-3.98s-1.72-3.98-3.85-3.98c-2.12 0-3.84 1.78-3.84 3.98z"
+      />
+      <path
+          id="path9001"
+          style="stroke-linejoin:bevel;stroke:#000000;stroke-linecap:square;stroke-width:1.3297;fill:#d8d8d8"
+          d="m193.31 348.51c0 2.45 1.93 4.45 4.3 4.45 2.38 0 4.3-2 4.3-4.45 0-2.46-1.92-4.45-4.3-4.45-2.37 0-4.3 1.99-4.3 4.45z"
+      />
+    </g
+    >
+  </g
+  >
+  <metadata
+    >
+    <rdf:RDF
+      >
+      <cc:Work
+        >
+        <dc:format
+          >image/svg+xml</dc:format
+        >
+        <dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        />
+        <cc:license
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        />
+        <dc:publisher
+          >
+          <cc:Agent
+              rdf:about="http://openclipart.org/"
+            >
+            <dc:title
+              >Openclipart</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:publisher
+        >
+        <dc:title
+          >Simple space platform game stuff 6</dc:title
+        >
+        <dc:date
+          >2006-12-26T00:00:00</dc:date
+        >
+        <dc:description
+        />
+        <dc:source
+          >https://openclipart.org/detail/24566/-by--24566</dc:source
+        >
+        <dc:creator
+          >
+          <cc:Agent
+            >
+            <dc:title
+              >qubodup</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:creator
+        >
+        <dc:subject
+          >
+          <rdf:Bag
+            >
+            <rdf:li
+              >2d</rdf:li
+            >
+            <rdf:li
+              >astronaut</rdf:li
+            >
+            <rdf:li
+              >character</rdf:li
+            >
+            <rdf:li
+              >cosmonaut</rdf:li
+            >
+            <rdf:li
+              >laser</rdf:li
+            >
+            <rdf:li
+              >lazer</rdf:li
+            >
+            <rdf:li
+              >platformer</rdf:li
+            >
+            <rdf:li
+              >player</rdf:li
+            >
+            <rdf:li
+              >space suit</rdf:li
+            >
+          </rdf:Bag
+          >
+        </dc:subject
+        >
+      </cc:Work
+      >
+      <cc:License
+          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+        >
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        />
+      </cc:License
+      >
+    </rdf:RDF
+    >
+  </metadata
+  >
+</svg
+>
